@@ -1,0 +1,10 @@
+D:\BTBUOI4\BTBUOI4\bin\Debug\BTBUOI4.exe.config
+D:\BTBUOI4\BTBUOI4\bin\Debug\BTBUOI4.exe
+D:\BTBUOI4\BTBUOI4\bin\Debug\BTBUOI4.pdb
+D:\BTBUOI4\BTBUOI4\obj\Debug\BTBUOI4.csprojAssemblyReference.cache
+D:\BTBUOI4\BTBUOI4\obj\Debug\BTBUOI4.Form1.resources
+D:\BTBUOI4\BTBUOI4\obj\Debug\BTBUOI4.Properties.Resources.resources
+D:\BTBUOI4\BTBUOI4\obj\Debug\BTBUOI4.csproj.GenerateResource.cache
+D:\BTBUOI4\BTBUOI4\obj\Debug\BTBUOI4.csproj.CoreCompileInputs.cache
+D:\BTBUOI4\BTBUOI4\obj\Debug\BTBUOI4.exe
+D:\BTBUOI4\BTBUOI4\obj\Debug\BTBUOI4.pdb

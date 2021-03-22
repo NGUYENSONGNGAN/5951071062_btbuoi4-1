@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTBUOI4", "BTBUOI4\BTBUOI4.csproj", "{A3FA85A2-97A9-4335-B038-B4BF2E53A3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3FA85A2-97A9-4335-B038-B4BF2E53A3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FA85A2-97A9-4335-B038-B4BF2E53A3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FA85A2-97A9-4335-B038-B4BF2E53A3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FA85A2-97A9-4335-B038-B4BF2E53A3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F99635B-DD55-4D61-9BC1-F9F575407B22}
+	EndGlobalSection
+EndGlobal
